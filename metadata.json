@@ -1,0 +1,8 @@
+{
+  "name": "Zoho Recruit - Enterprise ATS & Recruitment CRM",
+  "description": "Enterprise-grade applicant tracking system and recruitment CRM with visual Kanban candidate pipeline, resume parser, structured interview scorecards, and dual Corporate HR & Staffing Agency workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
